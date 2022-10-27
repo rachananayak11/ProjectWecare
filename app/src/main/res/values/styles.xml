@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Application Theme
+    this theme parent Theme.MaterialComponents.Light.NoActionBar already declares
+    that there is no action bar (but a toolbar).    -->
+
+    <style name="Theme.App" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+    </style>
+
+    <!-- NO USE
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">2dp</item>
+         </style> -->
+
+</resources>
